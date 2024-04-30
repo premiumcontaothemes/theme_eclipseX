@@ -20,4 +20,5 @@ Suppport-Center:<br>
 Suppport-Center:<br>
 <a href="https://service.premium-contao-themes.com/">service.premium-contao-themes.com</a>
 
-
+<br><br><br><br><br>
+This Theme is provided by Seamedia Themes / Seamedia GmbH
