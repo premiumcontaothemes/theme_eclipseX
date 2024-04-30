@@ -3,7 +3,7 @@ This Contao Premium Theme offers an all-in-one solution for website design. <br>
 <ul>
   <li>1 point of contact</li>
   <li>1 workflow</li>
-  <li>200 ready-made website</li>
+  <li>200 ready-made websites</li>
 </ul>
 <br>
 Project Website:<br>
